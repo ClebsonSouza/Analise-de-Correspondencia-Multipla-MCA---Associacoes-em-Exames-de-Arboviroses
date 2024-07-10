@@ -1,4 +1,4 @@
-### Revelando Associações em Exames de Arboviroses com Análise de Correspondência Múltipla
+## Revelando Associações em Exames de Arboviroses com Análise de Correspondência Múltipla
 
 A Análise de Correspondência Múltipla (MCA) é uma ferramenta poderosa para a análise exploratória de dados categóricos. Sua capacidade de transformar dados complexos em representações visuais intuitivas a torna essencial em diversas áreas de pesquisa e aplicação prática, auxiliando na descoberta de padrões e associações significativas.
 
